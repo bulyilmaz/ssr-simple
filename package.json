@@ -1,7 +1,5 @@
 {
-  "name": "ssr-example",
-  "version": "0.1.0",
-  "private": true,
+  "author": "Bülent YILMAZ",
   "dependencies": {
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
